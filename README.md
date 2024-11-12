@@ -12,7 +12,7 @@ A machine learning model was trained to predict whether a student is a "Pass" or
 
 A user-friendly web application was created using Streamlit, enabling users to input specific student data (attendance, hours studied, previous score, access to resources, tutoring sessions) and receive predictions on the student's "Grade". This application can be used by educators to support decision-making.
 
-## How to Install the Streamlit Application
+## How to Install the Source Code of Streamlit Application
 
 #### 1. Install the required libraries:
 
@@ -48,3 +48,5 @@ The dataset used for training our model was sourced from [Student Performance Da
 
 * Exam score prediction rmse - 
 * Grade prediction accuracy - 90%
+
+## Streamlit App - [ ]
