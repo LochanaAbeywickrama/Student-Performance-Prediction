@@ -42,6 +42,6 @@ streamlit run home.py
 
 ## Dataset
 
-The dataset used for training our model was sourced from Kaggle's Student Performance Dataset [Link Text]( https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data ), which includes various features such as attendance, study hours, previous scores, and motivation level etc. These factors contribute to predicting student performance.
+The dataset used for training our model was sourced from Kaggle's Student Performance Dataset [Link Text](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data), which includes various features such as attendance, study hours, previous scores, motivation level etc. These factors contribute to predicting student performance.
 
 ## Model Accuracy
