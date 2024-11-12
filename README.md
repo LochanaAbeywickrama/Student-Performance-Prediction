@@ -45,3 +45,6 @@ streamlit run app.py
 The dataset used for training our model was sourced from [Student Performance Dataset on Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data), which includes various features such as attendance, study hours, previous scores, motivation level etc. These factors contribute to predicting student performance.
 
 ## Model Accuracy
+
+* Exam score prediction rmse - 
+* Grade prediction accuracy - 90%
