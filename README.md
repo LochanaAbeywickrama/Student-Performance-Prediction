@@ -35,7 +35,7 @@ cd C:\Users\Documents\Student-Performance-Prediction
 #### 4. Run the Streamlit app
 
 ```
-streamlit run home.py
+streamlit run app.py
 ```
 
 #### 5. A browser window will open with the application interface, where you can input student data to get the "Grade" of the student.
