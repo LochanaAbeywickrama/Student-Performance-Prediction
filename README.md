@@ -23,7 +23,7 @@ pip install -r requirements.txt
 #### 2. Clone this repository
 
 ```
-git clone 
+git clone https://github.com/LochanaAbeywickrama/Student-Performance-Prediction
 ```
 
 #### 3. Navigate to the project directory in your machine
