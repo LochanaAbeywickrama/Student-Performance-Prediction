@@ -49,4 +49,4 @@ The dataset used for training our model was sourced from [Student Performance Da
 * Exam score prediction RMSE - 2.4
 * Grade prediction accuracy - 90%
 
-## Streamlit App - [https://appapppredictstudentperformance-j8l8p4j6cxapp3fxm8ocxkk.streamlit.app/]
+Streamlit App for student performance prediction - https://appapppredictstudentperformance-j8l8p4j6cxapp3fxm8ocxkk.streamlit.app
